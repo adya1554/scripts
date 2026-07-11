@@ -10,4 +10,4 @@ else
   echo "Dont Loose hopes Try agin You can do it!"
 fi
 echo 
-echo
+echo "linuxxxx"
