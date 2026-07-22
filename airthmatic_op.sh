@@ -15,3 +15,4 @@ echo
 echo "Multiplication of $num1 and $num2 = $(($num1*$num2))"
 echo 
 echo "division of $num1 and $num2 = $(($num1/$num2))"
+echo
